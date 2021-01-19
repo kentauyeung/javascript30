@@ -1,1 +1,1 @@
-Practicing JS with assignments from https://javascript30.com/
+Learning JS with assignments from https://javascript30.com/
